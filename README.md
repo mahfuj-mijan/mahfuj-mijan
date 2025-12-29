@@ -165,7 +165,7 @@ Passionate about turning bold ideas into reality? Whether it's a startup venture
 
 <div align="center">
   <p>If you find my work inspiring or helpful, consider supporting me. Your contribution fuels my passion for creating innovative solutions and sharing knowledge with the community.</p>
-  <a href="https://www.buymeacoffee.com/mahfujmijan">
+  <a href="buymeacoffee.com/mahfujim">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mahfujmijan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
   </a>
 </div>
